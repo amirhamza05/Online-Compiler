@@ -1,4 +1,4 @@
-FROM ubuntu:20.04
+FROM ubuntu:latest
 
 MAINTAINER Bartek Mis <bartek.mis@gmail.com>
 
