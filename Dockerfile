@@ -6,7 +6,6 @@ RUN apt-get update
 
 
 #Install C/C++ Compiler
-RUN apt-get install build-essential
 RUN apt-get install manpages-dev
 
 #Install Java Compiler
