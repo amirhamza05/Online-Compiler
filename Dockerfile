@@ -6,8 +6,8 @@ RUN apt-get update
 
 
 #Install C/C++ Compiler
-RUN apt install build-essential
+RUN apt-get install build-essential
 RUN apt-get install manpages-dev
 
 #Install Java Compiler
-RUN apt install default-jre
+RUN apt-get install default-jre
