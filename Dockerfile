@@ -4,4 +4,4 @@ FROM ubuntu:20.04
 #Update all packages
 RUN apt-get update
 
-
+RUN apt install default-jre
